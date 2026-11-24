@@ -1,4 +1,4 @@
-<h1 align="center">Samuel Ferreira</h1>
+<h1 align="center">Samuel Silva</h1>
 <p align="center"><strong>Desenvolvimento Full Stack · Engenharia de Software</strong></p>
 
 <p align="center">
