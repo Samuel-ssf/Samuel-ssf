@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Samuel-ssf"><img width="370" src="https://github-readme-stats.vercel.app/api?username=Samuel-ssf&amp;locale=pt-br&amp;card_width=370&amp;bg_color=101E33&amp;border_color=395677&amp;title_color=82BBFF&amp;text_color=E1EAF6&amp;disable_animations=true&amp;custom_title=Atividade%20no%20GitHub&amp;show_icons=true&amp;icon_color=61A6FF&amp;hide_rank=true&amp;line_height=24" alt="Estatísticas públicas de Samuel Ferreira no GitHub. Abrir perfil no GitHub."></a>
+  <img width="370" src="assets/competencias-profissionais.svg" alt="Competências profissionais: Desenvolvimento Full Stack, Engenharia de Software, Desenvolvimento de URA / IVR, Integrações com APIs REST, Qualidade e testes de software e Inteligência Artificial Generativa.">
   <a href="https://github.com/Samuel-ssf?tab=repositories"><img width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-ssf&amp;locale=pt-br&amp;card_width=370&amp;bg_color=101E33&amp;border_color=395677&amp;title_color=82BBFF&amp;text_color=E1EAF6&amp;disable_animations=true&amp;custom_title=Linguagens%20mais%20usadas&amp;layout=compact&amp;langs_count=8" alt="Distribuição das linguagens nos repositórios públicos de Samuel Ferreira. Abrir lista de repositórios."></a>
 </p>
 
