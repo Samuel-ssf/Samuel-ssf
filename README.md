@@ -40,23 +40,3 @@
 <p align="center">
   APIs REST · JSON · Desenvolvimento de URA/IVR · Testes funcionais · Inteligência Artificial Generativa
 </p>
-
-<h2 align="center">Projetos em destaque</h2>
-
-<p>
-  <strong><a href="https://github.com/Samuel-ssf/projeto_people_api">People API</a></strong><br>
-  API REST para cadastrar e consultar pessoas. Valida os dados de entrada e consulta a API Nationalize para estimar a nacionalidade associada a um nome.<br>
-  <em>Java · Spring Boot · PostgreSQL</em>
-</p>
-
-<p>
-  <strong><a href="https://github.com/Samuel-ssf/blogpessoal_react">Blog Pessoal</a></strong><br>
-  Interface de blog com login e telas para escrever, editar e organizar postagens por tema.<br>
-  <em>React · TypeScript · Tailwind CSS</em>
-</p>
-
-<p>
-  <strong><a href="https://github.com/Samuel-ssf/loja_gamer_spring">Loja Gamer</a></strong><br>
-  API de catálogo para gerenciar produtos e categorias. Permite pesquisar pelo nome e filtrar produtos acima ou abaixo de um preço.<br>
-  <em>Java · Spring Boot · Spring Data JPA · MySQL</em>
-</p>
